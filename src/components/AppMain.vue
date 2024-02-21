@@ -29,4 +29,8 @@ export default {
 .container {
     background-color: var(--yughi-oh-lighter);
 }
+
+main {
+    background-color: var(--yughi-oh-primary);
+}
 </style>
